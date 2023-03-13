@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  
+ }    
+
+ header, section h2, section h3, form button, footer {
+   font-family: "bungee", cursive;
+   color: #2E8B57;
+   font-weight: normal;
+
+ }
+
+header .container h1 {
+  font-size: 24px;
+  align-items: center;
+}
+
